@@ -1,3 +1,21 @@
+### FEU2 JS Frameworks course assignment by Jessica Warr
+
+Built in NextJs, hard-coded JSON, Formik and NextAuth
+
+Paths:
+
+- "/"
+- "/detail/:param"
+- "/contact"
+- "/login"
+- "/admin"
+
+- Hard-coded json with an array of items is in /libs/employeesJson.js &&&&
+- Index page with one item displaying at least 2 properties from result &&&&
+- Detail page displays one item with at least 3 properties &&&&
+- Contact form validation with Formik
+- Login auth with NextAuth
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
