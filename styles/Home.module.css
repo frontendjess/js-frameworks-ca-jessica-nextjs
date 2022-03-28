@@ -72,7 +72,7 @@
 	flex-wrap: wrap;
 	max-width: 800px;
 }
-
+/* 
 .card {
 	margin: 1rem;
 	padding: 1.5rem;
@@ -101,7 +101,7 @@
 	margin: 0;
 	font-size: 1.25rem;
 	line-height: 1.5;
-}
+} */
 
 .logo {
 	height: 1em;
@@ -144,4 +144,11 @@
 
 .navlinks:hover {
 	font-weight: bold;
+}
+
+.contactContainer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 }
