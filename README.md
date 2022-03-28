@@ -11,13 +11,14 @@ Paths:
 - "/api/auth/signin"
 - "/api/auth/signout"
 
-- Hard-coded json with an array of items is in /libs/employeesJson.js &&&&
-- Index page with one item displaying at least 2 properties from result &&&&
-- Detail page displays one item with at least 3 properties &&&&
-- Contact form validation with Formik
-- Login auth with NextAuth using Github provider - (signin & signout)
-- Client side authentication - (useSession)
-- Secured client side page is admin page
+Objectives
+-- Hard-coded json with an array of items is in /libs/employeesJson.js &&&&
+-- Index page with one item displaying at least 2 properties from result &&&&
+-- Detail page displays one item with at least 3 properties &&&&
+-- Contact form validation with Formik
+-- Login auth with NextAuth using Github provider - (signin & signout)
+-- Client side authentication - (useSession)
+-- Secured client side page is admin page
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
