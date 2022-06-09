@@ -31,7 +31,7 @@ I decided to fake API call using local data instead of a live API endpoint.
 
 ## Built With
 
-I built my project in Next.js, hard-coded JSON, used Formik and NextAuth for login. Deployed live website on Netlify.
+I built my project in Next.js, bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), hard-coded JSON, used Formik and NextAuth for login. Deployed live website on Netlify.
 
 - [Next.js](https://nextjs.org/)
 - [Formik](https://formik.org/)
