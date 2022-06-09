@@ -4,7 +4,7 @@
 
 One of my school projects, for JavaScript Frameworks course assignment. The focus for this project was entirly code based and no styling. :)
 
-Live link: https://jessica-nextjs-nextauth.netlify.app/
+Live website: https://jessica-nextjs-nextauth.netlify.app/
 
 ## Description
 
