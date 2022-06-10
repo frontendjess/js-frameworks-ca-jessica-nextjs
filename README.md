@@ -42,7 +42,7 @@ I built my project in Next.js, bootstrapped with [`create-next-app`](https://git
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+Please note: the client-side authentication (Admin login using NextAuth) only works locally, please clone my repo.
 
 1. Clone the repo:
 
